@@ -63,7 +63,7 @@
         android:id="@+id/textView"
         android:layout_width="265dp"
         android:layout_height="84dp"
-        android:layout_marginTop="48dp"
+        android:layout_marginTop="32dp"
         android:text="Mobile Computing Assignment 01"
         android:textAlignment="center"
         android:textColor="#FFFFFF"
